@@ -1,0 +1,35 @@
+{
+    "theme": "Maths & Culture G",
+    "nombreQuestion": 5,
+
+    "question": [{
+            "q": "Un flan à la vanille contient 9% de sucre. Quel pourcentage de sucre contenu dans 6 flans ?",
+            "option": ["54 %", "50 %", "9 %", "30 %"],
+            "reponse": "9 %"
+        },
+
+        {
+            "q": "on tire au hasard une carte dans un jeu de 32 cartes. La probabilité d'obtenir une carte rouge est:",
+            "option": ["1 / 3", "1 / 2", "3 / 4", "3 / 6"],
+            "reponse": "1 / 2"
+        },
+
+        {
+            "q": "Une piscine circulaire a un diamètre de 3,50 metres. Quelle est l'aire de la piscine ?",
+            "option": ["8.62 m²", "7.62 m²", "10.62 m²", "9.62 m²"],
+            "reponse": "9.62 m²"
+        },
+
+        {
+            "q": "Quand l'armistice de la seconde guerre mondiale a-t-elle été signée ?",
+            "option": ["Le 8 Mai 1945", "Le 14 Juillet 1940", "Le 11 Novembre 1945", "Le 18 Juin 1940"],
+            "reponse": "Le 8 Mai 1945"
+        },
+
+        {
+            "q": "Quelle ville française n'est pas située sur le Rhône ?",
+            "option": ["Grenoble", "Avignon", "Lyon", "Vienne"],
+            "reponse": "Grenoble"
+        }
+    ]
+}
