@@ -6,7 +6,7 @@ Faire un quiz fonctionnel administrable depuis un fichier JSON
 
 Le projet a été créé sous VSCode, pour le démarrer suivre les étapes suivantes.
 
-- Ajouter l'extension LiveServer sur l'IDE
+- Cloner le projet dans un serveur web comme WampServer (dossier www) puis lancer le projet
 
 ## Sources & Outils
 
